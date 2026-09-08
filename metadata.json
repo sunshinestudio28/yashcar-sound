@@ -1,0 +1,6 @@
+{
+  "name": "Yash Car & Home Audio",
+  "description": "High-end luxury car stereo and Dolby 5.1 home theater sound showroom website in Surat, Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
